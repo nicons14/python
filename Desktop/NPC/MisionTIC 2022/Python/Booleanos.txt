@@ -1,0 +1,7 @@
+condiciones.py
+
+def Notas_Estudiante(nota: float)
+if nota > 3:
+    print("Aprobo")
+else:
+    print("Reprobó")
